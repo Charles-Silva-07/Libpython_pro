@@ -1,0 +1,3 @@
+Instalar virtualenv
+
+python -m venv .venv = criand um ambiente virtual
