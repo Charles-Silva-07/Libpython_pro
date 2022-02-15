@@ -3,3 +3,5 @@ Instalar virtualenv
 python -m venv .venv = criand um ambiente virtual
 
 pipenv shell = ativa o ambiente virtual
+
+pipenv rm .venv = remove o ambiente virtual
