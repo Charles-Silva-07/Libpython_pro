@@ -5,3 +5,6 @@ python -m venv .venv = criand um ambiente virtual
 pipenv shell = ativa o ambiente virtual
 
 pipenv rm .venv = remove o ambiente virtual
+
+ou pipenv rm -rf .venv/ = = remove o ambiente virtua
+
