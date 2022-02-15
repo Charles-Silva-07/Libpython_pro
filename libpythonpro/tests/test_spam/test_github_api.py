@@ -1,14 +1,6 @@
 from unittest.mock import Mock
-
 import pytest
-
 from libpythonpro import github_api
-
-#
-# def test_buscar_avatar():
-#     avatar_url = avatar_url()
-#     url = github_api.buscar_avatar('Charles-silva-07')
-#     assert avatar_url == url
 
 
 @pytest.fixture()
