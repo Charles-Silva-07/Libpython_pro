@@ -8,3 +8,4 @@ pipenv rm .venv = remove o ambiente virtual
 
 ou pipenv rm -rf .venv/ = = remove o ambiente virtua
 
+pipenv sync -d
